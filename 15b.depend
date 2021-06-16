@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623584367 source:c:\users\krzys\desktop\new\15b\main.cpp
+	<windows.h>
+
+1623861127 source:c:\users\krzys\desktop\15b\main.cpp
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cmath>
+
